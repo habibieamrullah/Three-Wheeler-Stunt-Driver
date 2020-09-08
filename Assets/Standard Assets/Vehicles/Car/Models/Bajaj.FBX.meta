@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: b14a89c88eafd0d409e8c652caa9f6a2
+timeCreated: 1507994015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ban001
+    100004: Ban002
+    100006: Ban003
+    100008: Besibesian
+    100010: Bleki002
+    100012: BodyBajaj
+    100014: Box003
+    100016: Box004
+    100018: Box006
+    100020: Cylinder003
+    100022: LampuBelakang
+    100024: LampuDepan
+    100026: Object002
+    100028: Object003
+    100030: Object009
+    100032: Object016
+    100034: Object017
+    100036: PbrshKaca
+    100038: PlatNomor1
+    100040: PlatNomor2
+    100042: Spion
+    100044: TempatLampuDepan
+    400000: //RootNode
+    400002: Ban001
+    400004: Ban002
+    400006: Ban003
+    400008: Besibesian
+    400010: Bleki002
+    400012: BodyBajaj
+    400014: Box003
+    400016: Box004
+    400018: Box006
+    400020: Cylinder003
+    400022: LampuBelakang
+    400024: LampuDepan
+    400026: Object002
+    400028: Object003
+    400030: Object009
+    400032: Object016
+    400034: Object017
+    400036: PbrshKaca
+    400038: PlatNomor1
+    400040: PlatNomor2
+    400042: Spion
+    400044: TempatLampuDepan
+    2300000: Ban001
+    2300002: Ban002
+    2300004: Ban003
+    2300006: Besibesian
+    2300008: Bleki002
+    2300010: BodyBajaj
+    2300012: Box003
+    2300014: Box004
+    2300016: Box006
+    2300018: Cylinder003
+    2300020: LampuBelakang
+    2300022: LampuDepan
+    2300024: Object002
+    2300026: Object003
+    2300028: Object009
+    2300030: Object016
+    2300032: Object017
+    2300034: PbrshKaca
+    2300036: PlatNomor1
+    2300038: PlatNomor2
+    2300040: Spion
+    2300042: TempatLampuDepan
+    3300000: Ban001
+    3300002: Ban002
+    3300004: Ban003
+    3300006: Besibesian
+    3300008: Bleki002
+    3300010: BodyBajaj
+    3300012: Box003
+    3300014: Box004
+    3300016: Box006
+    3300018: Cylinder003
+    3300020: LampuBelakang
+    3300022: LampuDepan
+    3300024: Object002
+    3300026: Object003
+    3300028: Object009
+    3300030: Object016
+    3300032: Object017
+    3300034: PbrshKaca
+    3300036: PlatNomor1
+    3300038: PlatNomor2
+    3300040: Spion
+    3300042: TempatLampuDepan
+    4300000: Bleki002
+    4300002: Besibesian
+    4300004: Ban001
+    4300006: Object002
+    4300008: Object003
+    4300010: Object009
+    4300012: Box003
+    4300014: Box004
+    4300016: Spion
+    4300018: Box006
+    4300020: Object017
+    4300022: LampuBelakang
+    4300024: PlatNomor1
+    4300026: Object016
+    4300028: Cylinder003
+    4300030: PbrshKaca
+    4300032: PlatNomor2
+    4300034: TempatLampuDepan
+    4300036: Ban003
+    4300038: BodyBajaj
+    4300040: Ban002
+    4300042: LampuDepan
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
